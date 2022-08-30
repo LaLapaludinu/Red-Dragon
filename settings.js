@@ -71,7 +71,7 @@ global.premium = ['+94776360685'] //ur premium numbers
 //other
 global.sessionName = 'session'
 global.antitags = false
-global.prefa = ['','!','.','😂','❤️','💠'] //Command Prefix eg:(.alive ,alive 😂alive)
+global.prefa = ['','!','.','😂','❤️','💠'] //Command Prefix eg:(.alive ,alpha 😂alive)
 global.sp = '💠'
 global.mess = {
     success: 'Done ✅',
